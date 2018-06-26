@@ -1,3 +1,29 @@
+/*
+Sample Input:
+
+one 
+little 
+two 
+little 
+three 
+little 
+Indians 
+# 
+one 
+little 
+four 
+Indians 
+indians 
+
+Sample Output:
+
+one 1 
+little 3 
+four 0 
+Indians 1 
+indians 0 
+*/
+
 #include <iostream>
 #include <map>
 
